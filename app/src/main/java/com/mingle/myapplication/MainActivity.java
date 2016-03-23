@@ -22,6 +22,9 @@ import com.mingle.sweetpick.ViewPagerDelegate;
 
 import java.util.ArrayList;
 
+/**
+ *
+ */
 public class MainActivity extends AppCompatActivity {
 
     private SweetSheet mSweetSheet;
